@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('build') {
             steps {
-                echo "build stage....deployment completed last stage done"
+                echo "build stage....deployment completed last stage"
             }
         }
     }
